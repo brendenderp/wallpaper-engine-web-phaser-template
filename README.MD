@@ -22,8 +22,3 @@ There's a few ways you can test. Since this is intended for Wallpaper Engine:
 
 For debugging tips, check out the [Wallpaper Engine debugging guide](https://docs.wallpaperengine.io/en/web/debug/debug.html).
 
-## PhaserJS Integration
-
-This template supports PhaserJS for creating dynamic wallpapers. Ensure you include PhaserJS in your project and utilize its features to enhance your wallpapers.
-
-The link to the repository has been updated: [Wallpaper Engine Web Phaser Template](https://github.com/brendenderp/wallpaper-engine-web-phaser-template).
