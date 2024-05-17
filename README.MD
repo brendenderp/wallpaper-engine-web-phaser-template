@@ -1,4 +1,4 @@
-<img width="422" alt="image" src="https://github.com/brendenderp/wallpaper-engine-web-phaser-template/blob/master/image.png>
+<img width="422" alt="image" src="https://raw.githubusercontent.com/brendenderp/wallpaper-engine-web-phaser-template/master/image.png>
 
 ## Developing
 
