@@ -12,9 +12,9 @@
 				"type" : "color",
 				"value" : "0 0 0"
 			}
-		},
-		"supportsaudioprocessing" : true
+		}
 	},
-	"type" : "web",
+	"title" : "index",
+	"type" : "Web",
 	"visibility" : "public"
 }
