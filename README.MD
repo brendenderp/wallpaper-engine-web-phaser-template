@@ -1,3 +1,5 @@
+<img width="422" alt="image" src="https://github.com/brendenderp/wallpaper-engine-web-phaser-template/blob/master/image.png>
+
 ## Developing
 
 There's a few ways you can test. Since this is intended for Wallpaper Engine:
